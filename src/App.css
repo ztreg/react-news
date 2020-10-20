@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@media screen and (min-width: 600px) {
+  .maximg {
+    height: 200px !important;
+  }
+}
+
